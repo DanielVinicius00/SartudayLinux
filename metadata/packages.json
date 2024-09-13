@@ -1,0 +1,8 @@
+{
+
+	"nasm": {
+	  "version": "2.16",
+		"depencies":[""],
+		"url": "https://github.com/DanielVinicius00/SartudayLinux/github/raw/main/packages/nasm/2.16/nasm-2.16.03.tar.gz"
+		}
+}
